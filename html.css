@@ -2,6 +2,10 @@ h1{
     color: rgb(113, 23, 82);
 }
 
+h2{
+    color: rgb(113, 23, 82);
+}
+
 header{
     background-color: rgb(235, 201, 255);
     padding: 30px 10%;
@@ -10,17 +14,17 @@ header{
 header a{
     background-color: rgb(235, 201, 255);
     padding-right: 10%;
+  color: rgb(91, 47, 69);
+  font-weight: bold;
+  padding: 5px;
 }
+
 
 .p {
   font-family: Arial,sans-serif;
   line-height: 1.3;
 }
-a {
-  color: rgb(91, 47, 69);
-  font-weight: bold;
-  padding: 5px;
-}
+
 
 .Beranda{
     color: rgb(113, 23, 82);
@@ -38,4 +42,10 @@ button{
     color: rgb(170, 102, 234);
 }
 
+.tentang{
+    color: rgb(113, 23, 82);
+    background-color: rgb(220, 173, 242);
+    padding: 30px 10%;
+    text-align: center;
+}
 
